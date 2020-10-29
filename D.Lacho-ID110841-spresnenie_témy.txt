@@ -1,0 +1,10 @@
+Daniel Lacho
+Názov: Google classroom ako edukačný softwér, a jeho využitie
+
+V dnešnej dobe prechádza mnoho výučbových inštitúcií na čiastočné online vyučovanie, dokonca v dobe globálnej pandémie, ak je to možné, na úplné online vyučovanie. Na tento účel existuje mnoho nástrojov, tzv. výučbových softwérov. Jeden z nich je aj Google classroom, ktorý bol predstavený v Máji, 2014 a poskytuje možmosť učiteľom centralizovane komunikovať so študentmi, zadávať im domáce úlohy a dostávať od nich spätnú väzbu. Je súčasťou výučbovej platformy Google Suite of Educational Tools (G-Suite).
+V tomto článku sa venujeme jeho fungovaniu, jeho výhodám a nevýhodám oproti prezenčnej výučbe. Článok sa zaoberá efektivitou použitia Google classroom vo výučbe, či jeho využitie zvyšuje zapojenie sa študentov, či zlepšuje elán a dynamiku skupiny alebo triedy, a to, ako môže v budúcnosti ovplyvniť internetovú výučbu.
+
+Zdroje:
+Heggart, K. R., & Yoo, J. (2018). Getting the Most from Google Classroom: A Pedagogical Framework for Tertiary Educators. Australian Journal of Teacher Education, 43(3). DOI:http://dx.doi.org/10.14221/ajte.2018v43n3.9
+
+I Ketut Sudarsana, Ida Bagus Made Anggara Putra, I Nyoman Temon Astawa, & I Wayan Lali Yogantara (2019). The use of Google classroom in the learning processJournal of Physics: Conference Series, 1175, 012165. DOI:https://doi.org/10.1088%2F1742-6596%2F1175%2F1%2F012165
